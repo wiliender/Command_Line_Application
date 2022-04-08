@@ -6,3 +6,5 @@ Exemplo: go run main.go ip --host mercadolivre.com.br
 
 Para utilizar a busca de Servidores publicos é necessario passar os parametros para a flag "servidores" --host "link"
 Exemplo: go run main.go servidores --host mercadolivre.com.br
+
+ <img id="exemplos-dos-comandos" src="exemplos.PNG" alt="">
